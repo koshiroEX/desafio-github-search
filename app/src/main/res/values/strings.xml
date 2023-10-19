@@ -1,5 +1,15 @@
 <resources>
     <string name="app_name">GitHubSearch</string>
-    <string name="nome_usuario">Nome do usuário</string>
-    <string name="confirmar">Confirmar</string>
+    <string name="main_title">GitHub</string>
+    <string name="user">Nome do usuário</string>
+    <string name="confirm">Buscar</string>
+    <string name="error">Não foi possível realizar transação, verifique sua conexão</string>
+    <string name="results">Repositórios:</string>
+    <string name="username">username</string>
+    <string name="user404">Usuário não encontrado</string>
+    <string name="user_error">Usuário não exsite</string>
+    <string name="no_repositories">Usuário não possui repositórios públicos</string>
+    <string name="no_repositories_description">Vazio</string>
+    <string name="github">GitHub</string>
+    <string name="share">Compartilhar</string>
 </resources>
